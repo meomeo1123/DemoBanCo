@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DemoBanCo_20DTHE2.props" />
+</Project>

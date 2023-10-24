@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DemoBanCo_20DTHE2.props" />
+</Project>

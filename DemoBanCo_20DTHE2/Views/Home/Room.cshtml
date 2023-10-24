@@ -1,0 +1,117 @@
+﻿
+@{
+    ViewData["Title"] = "Room";
+}
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Room</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .room-container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .room-item {
+            width: 25%;
+            padding: 10px;
+        }
+    </style>
+</head>
+<div id="app" class="container mt-4">
+    <div class="row">
+        <div class="col-8">
+            <input class="form-control" type="text" v-model="roomName" placeholder="Nhập tên phòng">
+        </div>
+
+    </div>
+
+    <button class="btn btn-primary mt-2" v-on:click="addRoom">Thêm phòng</button>
+
+    <div class="room-container mt-3">
+        <div class="room-item" v-for="room in roomList" :key="room.id">
+            <button class="btn btn-info" v-on:click="JoinRoom(room.id)">Phòng {{ room.name }}</button>
+        </div>
+    </div>
+</div>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.0/axios.min.js"></script>
+
+<script>
+    var matrix = [];
+    var app = new Vue({
+        el: '#app',
+        data: {
+            roomList: [],
+        },
+        methods: {
+            getPhong() {
+                const token = JSON.parse(localStorage.getItem('userData'));
+                axios({
+                    url: '/api/chess/getRoom',
+                    method: 'GET',
+                    responseType: 'Json',
+                    headers: {
+                        'Authorization': 'bearer ' + token.token, // Include the token in the request headers
+                    },
+                }).then((response) => {
+                    this.roomList = response.data.data;
+                });
+            },
+            addRoom() {
+                const token = JSON.parse(localStorage.getItem('userData'));
+                const roomName = Math.floor(Math.random() * 10000) + 1;
+                axios({
+                    url: '/api/chess/insertRoom',
+                    method: 'POST',
+                    responseType: 'Json',
+                    params: {
+                        roomName, // Truyền roomName như một đối tượng JSON
+                    },
+                    headers: {
+                        'Authorization': 'bearer ' + token.token, // Include the token in the request headers
+                    },
+                }).then((response) => {
+                    this.getPhong();
+
+                });
+            },
+            searchRooms() {
+                this.roomList = this.roomList.filter(room => {
+                    return room.name.toLowerCase().includes(this.searchQuery.toLowerCase());
+                });
+            },
+            JoinRoom(roomId) {
+                const token = JSON.parse(localStorage.getItem('userData'));
+                const userName = localStorage.getItem('username');
+                axios({
+                    url: '/api/chess/addUserToRoom',
+                    method: 'POST',
+                    responseType: 'Json',
+                    params: {
+                        userName,
+                        roomId, // Truyền roomId như một tham số
+                    },
+                    headers: {
+                        'Authorization': 'bearer ' + token.token, // Include the token in the request headers
+                    },
+                }).then((response) => {
+                    window.location.href = 'Index';
+                    localStorage.setItem('roomId', roomId);
+                });
+            }
+            ,
+            clearSearch() {
+                this.searchQuery = '';
+                this.getPhong();
+            }
+        },
+        mounted: function () {
+            this.getPhong();
+        }
+    });
+</script>

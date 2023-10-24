@@ -1,0 +1,429 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DemoBanCo_20DTHE2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DemoBanCo_20DTHE2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\bancotuong.jpg",
+      "PackagePath": "staticwebassets\\Images\\bancotuong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\chutuongden.svg",
+      "PackagePath": "staticwebassets\\Images\\chutuongden.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\chutuongdo.svg",
+      "PackagePath": "staticwebassets\\Images\\chutuongdo.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\maden1.svg",
+      "PackagePath": "staticwebassets\\Images\\maden1.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\maden2.svg",
+      "PackagePath": "staticwebassets\\Images\\maden2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\mado1.svg",
+      "PackagePath": "staticwebassets\\Images\\mado1.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\mado2.svg",
+      "PackagePath": "staticwebassets\\Images\\mado2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\nhuquynh11.jpg",
+      "PackagePath": "staticwebassets\\Images\\nhuquynh11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\nq2021v1.jpg",
+      "PackagePath": "staticwebassets\\Images\\nq2021v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\phaoden1.svg",
+      "PackagePath": "staticwebassets\\Images\\phaoden1.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\phaoden2.svg",
+      "PackagePath": "staticwebassets\\Images\\phaoden2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\phaodo1.svg",
+      "PackagePath": "staticwebassets\\Images\\phaodo1.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\phaodo2.svg",
+      "PackagePath": "staticwebassets\\Images\\phaodo2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\quanco.jpg",
+      "PackagePath": "staticwebassets\\Images\\quanco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\siden1.svg",
+      "PackagePath": "staticwebassets\\Images\\siden1.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\siden2.svg",
+      "PackagePath": "staticwebassets\\Images\\siden2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\sido1.svg",
+      "PackagePath": "staticwebassets\\Images\\sido1.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\sido2.svg",
+      "PackagePath": "staticwebassets\\Images\\sido2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\totden1.svg",
+      "PackagePath": "staticwebassets\\Images\\totden1.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\totden2.svg",
+      "PackagePath": "staticwebassets\\Images\\totden2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\totden3.svg",
+      "PackagePath": "staticwebassets\\Images\\totden3.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\totden4.svg",
+      "PackagePath": "staticwebassets\\Images\\totden4.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\totden5.svg",
+      "PackagePath": "staticwebassets\\Images\\totden5.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\totdo1.svg",
+      "PackagePath": "staticwebassets\\Images\\totdo1.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\totdo2.svg",
+      "PackagePath": "staticwebassets\\Images\\totdo2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\totdo3.svg",
+      "PackagePath": "staticwebassets\\Images\\totdo3.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\totdo4.svg",
+      "PackagePath": "staticwebassets\\Images\\totdo4.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\totdo5.svg",
+      "PackagePath": "staticwebassets\\Images\\totdo5.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\tuongden.svg",
+      "PackagePath": "staticwebassets\\Images\\tuongden.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\tuongden1.svg",
+      "PackagePath": "staticwebassets\\Images\\tuongden1.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\tuongden2.svg",
+      "PackagePath": "staticwebassets\\Images\\tuongden2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\tuongdo.svg",
+      "PackagePath": "staticwebassets\\Images\\tuongdo.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\tuongdo1.svg",
+      "PackagePath": "staticwebassets\\Images\\tuongdo1.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\tuongdo2.svg",
+      "PackagePath": "staticwebassets\\Images\\tuongdo2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\xeden1.svg",
+      "PackagePath": "staticwebassets\\Images\\xeden1.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\xeden2.svg",
+      "PackagePath": "staticwebassets\\Images\\xeden2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\xedo1.svg",
+      "PackagePath": "staticwebassets\\Images\\xedo1.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\Images\\xedo2.svg",
+      "PackagePath": "staticwebassets\\Images\\xedo2.svg"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kidla\\Documents\\Zalo Received Files\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2-main\\DemoBanCo_20DTHE2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DemoBanCo_20DTHE2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DemoBanCo_20DTHE2.props",
+      "PackagePath": "build\\DemoBanCo_20DTHE2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DemoBanCo_20DTHE2.props",
+      "PackagePath": "buildMultiTargeting\\DemoBanCo_20DTHE2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DemoBanCo_20DTHE2.props",
+      "PackagePath": "buildTransitive\\DemoBanCo_20DTHE2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
